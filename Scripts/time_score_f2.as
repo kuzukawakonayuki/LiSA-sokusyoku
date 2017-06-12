@@ -1,0 +1,11 @@
+stop();
+var bonus:int = 0;
+var score_rate:int = 1;
+var score:Number = 0;
+var time_s:int = 30;
+var time_m:int = 0;
+var wait_set = 30;
+var max_rate:int = 0;
+var max_bonus:int = 0;
+var time_print:String = "test";
+var wait_print:String = "test";
